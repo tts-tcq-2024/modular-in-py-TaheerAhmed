@@ -1,6 +1,6 @@
 # reference_manual.py
 
-from color_logic import MAJOR_COLORS, MINOR_COLORS, color_pair_to_string
+from color_seggregation_logic import MAJOR_COLORS, MINOR_COLORS, color_pair_to_string
 
 def generate_reference_manual():
     manual = []
